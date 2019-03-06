@@ -2,10 +2,17 @@
 
 Melon Funding Proposals
 
+## Context
+
+See Melonomics I : https://medium.com/melonport-blog/melonomics-part-1-aligning-interests-through-token-unification-d0b98a02de46
+
+## Applications
+
 Teams and projects applying for a funding through the Melon inflation pool must submit their application by making a pull request to this repository. Make a PR with a file named your_project.md and detail the following: 
 
 - Description of the project 
 - Synergies/benefits to the Melon ecosystem
+- Token use
 - Clear timeline
 - Funding needs
 - Team presentation
