@@ -1,6 +1,7 @@
-# MFP
+# MFP: Melon Funding Proposals
 
-Melon Funding Proposals
+<img src = "https://github.com/melonproject/branding/blob/master/melon/11_Melon_icon.png" width = "25%" align="right">
+
 
 ## Context
 
