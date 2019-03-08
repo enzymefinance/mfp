@@ -104,7 +104,7 @@ While the Melonport team worked out complex technical challenges of setting up a
 ### 5.1 How we bring Value to the Melon Ecosystem ###
 
 After the development and security auditing of the Melon protocol is completed, the Melon ecosystem is depending on one key element: usage. Our mission is to create a captivating mobile UX and gamification mechanics around Melon in order to drive user adoption. 
-**All asset mixes on the Ash app are actually Melon funds on Ethereum.** This creates a direct link between the app’s usage and the Melon Engine. Usage of Ash will automatically increase MLN deflation and thereby contribute to the MLN price (detailed information about the Melon Engine and MLN deflation in Melonomics II).
+**All asset mixes on the Ash app are actually Melon funds on Ethereum.** This creates a direct link between the app’s usage and the Melon Engine. Usage of Ash should increase MLN burn rate and thereby contribute to the MLN purchasing power (detailed information about the Melon Engine and MLN deflation in Melonomics II). 
 
 The key elements of Ash that enhance Melon are namely: 
 
