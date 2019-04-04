@@ -1,10 +1,166 @@
 # Proposal for a Token Application Event to the Melon Council #
 
 
+# *Proposal Update Nr. 1* # 
+
+
+## 1 Funding Schedule & Milestones ##
+
+**Phase 1: Apr- Jul 2019; CHF 364,000**
+
+*Main Milestones:* 
+
+###### Public Beta on Kovan ######
+
+- conduct Alpha user interviews
+- iterate over features based on user feedback and usage data
+- complete Alpha backlog tasks
+- release in App Store & Google Play Store
+
+*General Development:*
+
+- Melon/Giveth Module R&D
+- Legal groundwork in preparation for main-net launch: fiat payment integration
+- Legal groundwork in preparation for main-net launch: KYC/AML framework
+- Alpha maintenance
+
+**Phase 2: Aug - Nov 2019; CHF 363,000**
+
+*Main Milestones:* 
+
+###### Development & open sourcing of mobile & desktop interface ######
+
+- remodel Ash interface as generic version for mobile
+- develop generic Ash interface version for desktop
+- set up a design system 
+- documentation
+- published on Github
+
+###### Development & open sourcing of Giveth module #######
+
+- module to invest in the Giveth DAC
+- documentation
+- published on Github
+
+###### Ash Hackathon ######
+
+- topics: interface integration & module development 
+
+*General Development:*
+
+- Copy-trading module R&D
+- Multi-Manager Funds module R&D
+- Challenge module & XP token R&D
+- Development of fiat payment integration
+- Legal groundwork in preparation for main-net launch: social trading license Lichtenstein/United Kingdom
+- Beta maintenance
+
+
+**Phase 3: Dec 2019 - Mar 2020; CHF 363,000**
+
+*Main Milestones:* 
+
+###### Development & open sourcing of Copy-trading module ######
+
+- module to enable Melon funds to invest in other Melon funds
+- documentation
+- published on Github
+- security audit
+
+###### Development & open sourcing of Multi-Manager funds module ######
+
+- module to enable multiple managers per Melon fund
+- documentation 
+- published on Github
+- security audit
+
+###### “Beta Season” Tournament ######
+ 
+- running on Kovan 
+- fiat payments for challenge fees
+
+###### Report on legal situation of Melon-based apps ######
+
+- licenses, jurisdictions, categorization
+
+*General Development:*
+
+- XP token & challenge module testing
+- R&D for technical implementation of KYC/AML integration
+- Prediction market feasibility study:
+- integration tests 
+- result documentation 
+- Beta maintenance
+
+
+
+## 2 Treasury Management ## 
+
+The sell schedule for the granted MLN is aligned with the funding and milestones schedule. To secure our round one funding needs, we have started to think about how to place an OTC trade for the entire first slice (CHF 364,000) of MLN with interested parties. We believe that with the help of our advisor (Mona El Isa) we will be able to place these at a discount to OTC market with 2-3 protocol-based hedge funds who are long term holders. In accordance with the start of the second part of the funding schedule, we will start selling MLN from August on exchanges in order to cover our monthly burn rate as well as additional costs. Depending on the market situation at that point, we will consider further OTC negotiations in a timely manner. 
+
+- April 2019: **CHF 364,000 one time via OTC** 
+- Aug. - Nov. 2019: **CHF 90,750/month** via exchanges or OTC
+- Dec. 2019 - Mar. 2020:  **CHF 90,750/month** via exchanges or OTC
+
+In the case that the MLN price decreases heavily by mid of 2019, we will decrease costs to a minimum that allows the maintenance of the Beta. Further, we will try to ensure the conduction of the necessary sales via OTC.
+
+
+
+## 3 Contributions to the Melon Protocol & Ecosystem ##
+
+### a. Usage & Deflation ###
+
+By providing a new innovative use-case to Melon, our goal is to expand the user base and actively increase the MLN engine burn rate. With retail investors as our target group, the Ash prize pool works as an incentive mechanism to drive broader adoption. The more users play challenges, the more challenge fees are paid to an increasing prize pool that again attracts new users. Each fee function called changes “Melon gas”. Midas Technologies AG will provide an initial amount for the prize pool kick-off and foresees the Beta Season Tournament on Kovan in Q1 2020, with at least 1,000 Beta testers (of which ca. 500 already have signed up - documentation on request). With user recommendations and marketing & community initiatives during the tournament we deem it realistic to gain another 2,000 users for the main-net launch, making a total of 3,000 signups on main-net in year two. Our assumption is that every user joining Ash will use the Melon smart contract functions *setupFund*, *requestInvestment* & *executeRequest*, at least once to open a fund and make an initial investment. In addition to that there is a reasonable amount of follow-up investments included. This is a conservative calculation taken from Melonomics 2,  depending on the crypto market situation, user numbers/actions can increase significantly faster. 
+Based on the Melonomics 2 calculation for Melon smart contract functions and the current amgu price, we calculated the potential amgu consumption rate per user for three years as follows:
+
+*Costs of Melon smart contract functions:* 
+
+*setupFund* requires approx. 3,490,520 amgu (1x/year)
+*requestInvestment* requires approx. 202,196 amgu (10x/year)
+*executeRequest* requires approx. 281,133 amgu (10x/year)
+*redeemAllOwnedAssets* requires approx 38,547 amgu (3x/year)
+ 
+*Calculation per Melon fund/user:*
+3,490,520 + (10 * 202,196) + (10 * 281,133) + (3 * 38, 547) = 8,439,451 
+
+In year 3 there is an additional amount of amgu generated by the 3000 users that signed up in year 2 which are not setting up a new fund but keep performing basic actions like invest and redeem:
+(10 * 202,196) + (10 * 281,133) + (3 * 38, 547) = 4,948,931
+
+*calculation from Melonomics 2, applied to projected Ash user numbers
+
+Please follow [this link](https://docs.google.com/document/d/1neEH-jekoz1NzCINVdH2v8Ze3ud1tHKQCH0rfIVKdkI/edit?usp=sharing) to see calculation table A
+
+
+An additional driver for the Melon engine can be the transition of the challenge functionality from our back-end to a module which manages challenges on-chain. Through this module, a slice X can be taken from every challenge fee and forwarded to the Melon engine. In our first two weeks of Alpha testing we had 25 people invited ie. 25 Melon funds were created on Kovan. Despite very low liquidity on Kovan and some initial bugs and downtimes, an average of three challenges were played per person, per day. 
+According to this average and an assumed price of **50,000 amgu/challenge** we calculated the potential amgu consumption rate for challenges in three years as follows:
+
+Please follow [this link](https://docs.google.com/document/d/1neEH-jekoz1NzCINVdH2v8Ze3ud1tHKQCH0rfIVKdkI/edit?usp=sharing) to see calculation table B
+
+
+We expect to be able to continue running the competitions for a minimal fee for maintenance and marketing which should help expand these numbers further from year 3 onwards.
+
+
+### b. Open Source Development & Legal Research ###
+
+Apart from bringing usage to the Melon protocol and thereby trigger the MLN deflation mechanism, we contribute to the ecosystem by open sourcing our development milestones, namely: 
+
+- Copy-trading module: enables users to invest in other Melon funds. This protocol-level  feature is an elementary building block of financial instruments/fund management and will add one further key function to the protocol. 
+
+- Multi-Manager module: enables users to manage Melon funds as a group. This feature can mitigate key-person risk, and enables the integration of policies, procedures, roles and responsibilities into the protocol. Further, retail investor groups like families get the chance to share the management responsibilities of their funds. 
+
+- Generic Melon interface for mobile and desktop: thrives adoption and development of new apps on top of the protocol by making it trivial to modify existing modules or add new modules to the interface system to fit the apps domain logic.
+
+- Giveth module: enables users to invest in DACs on Giveth and allows to turn mixes into impact investment funds by investing in NGOs or charity projects. 
+
+We further invest in the legal research and strategy to offer Melon protocol functionalities to retail investors. Our approach is to embed Melon protocol functionalities into the legal framework of social trading (at the moment we focus on Lichtenstein in that matter).
+
+
+
+
+
+
 *to see this proposal with all included graphics please visit:
 https://medium.com/ash-blog/proposal-for-a-token-application-event-to-the-melon-council-5ed2cc4eefd5
-
-
 
 ## 1 What this Proposal is about ##
 
@@ -104,7 +260,8 @@ While the Melonport team worked out complex technical challenges of setting up a
 ### 5.1 How we bring Value to the Melon Ecosystem ###
 
 After the development and security auditing of the Melon protocol is completed, the Melon ecosystem is depending on one key element: usage. Our mission is to create a captivating mobile UX and gamification mechanics around Melon in order to drive user adoption. 
-**All asset mixes on the Ash app are actually Melon funds on Ethereum.** This creates a direct link between the app’s usage and the Melon Engine. Usage of Ash should increase MLN burn rate and thereby contribute to the MLN purchasing power (detailed information about the Melon Engine and MLN deflation in Melonomics II). 
+<dl><dt>All asset mixes on the Ash app are actually Melon funds on Ethereum.</dt></dl>
+This creates a direct link between the app’s usage and the Melon Engine. Usage of Ash will automatically increase MLN deflation and thereby contribute to the MLN price (detailed information about the Melon Engine and MLN deflation in Melonomics II).
 
 The key elements of Ash that enhance Melon are namely: 
 
@@ -160,16 +317,17 @@ With the introduction of Melonomics we can apply for a reasonable funding opport
 
 #### 5.2.2 Completed Development ####
 
-The following overview shows the positions we have committed since November 2017 (time of incorporation) to realizing the first app on Melon. The technical development started during spring 2018 when the team was joined by our product designer and front-end developer. Apart from the core team, we worked with several freelancers during 2018.
+The following overview shows the positions we have committed since November 2017￼ (time of incorporation) to realizing the first app on Melon. The technical development started during spring 2018 when the team was joined by our product designer and front-end developer. Apart from the core team, we worked with several freelancers during 2018.
 
-- Gross Salaries & Infrastructure: 431'273.30 CHF =  66.51%
-- Fees for recruiting developers:   55'924.31 CHF =   8.62%
-- Legal assistance & maintenance:   58'645.45 CHF =   9.04%
-- Travel costs: 	            31'032.73 CHF =   4.79%
-- Marketing & Branding:             15'083.65 CHF =   2.33%
-- Banking & Accounting:             23'336.44 CHF =   3.60%
-- Office costs & Supplies:          33'111.80 CHF =   5.11%
-- TOTAL:                           648'407.68 CHF = 100.00%
+- Gross Salaries & Infrastructure: 431'273.30 CHF -  66.51%
+- Fees for recruiting developers:   55'924.31 CHF -   8.62%
+- Legal assistance & maintenance:   58'645.45 CHF -   9.04%
+- Travel costs: 	            31'032.73 CHF -   4.79%
+- Marketing & Branding:             15'083.65 CHF -   2.33%
+- Banking & Accounting:             23'336.44 CHF -   3.60%
+- Office costs & Supplies:          33'111.80 CHF -   5.11%
+
+- TOTAL:                           648'407.68 CHF-  100.00%
 
 By the time of this proposal the following elements have been completed:
 
