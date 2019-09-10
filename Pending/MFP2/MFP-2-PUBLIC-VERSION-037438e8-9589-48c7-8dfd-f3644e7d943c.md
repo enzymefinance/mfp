@@ -32,8 +32,6 @@ In summary, Avantgarde believes it can do this by
 
 **Avantgarde Finance** will offer professional, DIY tool-kits for on-chain investment vehicles. It leverages off the unique & underlying infrastructural protocol layer, Melon. Aspiring managers will have access to composable and easy-to-use tools interacting with smart-contracts-based protocols without ever feeling they are entering an alien “blockchain” world.
 
-In addition to acting as a gateway to a new financial infrastructure, the Avantgarde terminal plans to layer in various subscription-based off-chain services over time. These will undoubtedly provide additional benefits to managers (eg. Token network analytics, token research, market data, data feeds, API’s, KYC/AML & fiat bridges).
-
 ### _Avantgarde Finance & Melon_
 
 Melon at its core, performs the functions across the entire value-chain of a fund; middle/back office, financial intermediaries (eg. custodian, fund administrator & transfer agent), accountants and so on. Other features in the Melon system (trading, price feed, margin trading, derivatives) are enabled by protocol-level integrations with other decentralized finance protocols. These protocol-level integrations make Melon unique. Melon is a protocol that natively and multilaterally connects/links/integrates all the DeFi protocols at a smart contract level. In doing so, the Melon protocol paves the way for a new form of asset management.
@@ -48,14 +46,7 @@ Start team:
 
 ![](<Untitled-Project_(1)-7afd0a29-04c9-4cc3-9409-97e850f572d5.jpg>)
 
-If proposal is accepted by the Melon Council, Avantgarde will be looking to be fill the following additional positions:
-
-- Community Manager & Growth Hacker
-- Senior Design and UX developer
-- Junior Front-End/Full stack developer
-- 2 Protocol/smart contract developers
-
-_Note: The above is subject and conditional on budget allowance making this possible._
+Should the proposal be accepted by the Melon Council, Avantgarde Finance will be hiring!
 
 # 1. **Community and ecosystem development**
 
