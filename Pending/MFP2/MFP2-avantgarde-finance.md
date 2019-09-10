@@ -180,7 +180,7 @@ All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL 
 
 **Given the fast-changing nature of this space, it is very difficult to forecast a precise timeline for everything we want to achieve. However, in the timeline below we have attempted to indicate a rough timeline which is of course subject to change. We will provide the Melon Council with quarterly updates on the status and progress including any barriers that we face along the way.**
 
-![](Capture_decran_2019-08-08_a_11-fddfc9f0-054a-4786-961c-5cdc39dd70ea.39.37.png)
+![](timeline.png)
 
 # 3. Financials
 
