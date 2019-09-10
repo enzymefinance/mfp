@@ -89,7 +89,7 @@ Dialling up the Melon volume on a global scale - making sure we are present in a
 
 **We present below an outline of the different areas of work we have identified so far for the next 3 years. We will spend a lot of time researching and assessing the below items, and implementing when/where it makes sense, always subject to the MTC approval.**
 
-_Color code: **black = execution subject to MTC approval**, **blue = assessment and possible execution**, **purple = research**._
+_Color code: **black = execution subject to MTC approval**, **blue = assessment and possible execution**, **purple = research**._ See PDF version for color code.
 
 _Items annotated with 2 asterix (\*\*) are subject to Avantgarde finance being sufficiently funded._
 
