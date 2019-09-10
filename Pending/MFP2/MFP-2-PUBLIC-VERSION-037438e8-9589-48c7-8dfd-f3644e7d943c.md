@@ -1,4 +1,6 @@
-# MFP #2 PUBLIC VERSION
+# MFP #2 Avantgarde Finance
+
+![](AVANTGARDE_LOGO.jpg)
 
 The **Avantgarde** vision is to create a better everyday experience for aspiring asset managers & their investors by giving them easy access to a new financial infrastructure using Melon and other supporting DeFi technologies.
 
@@ -14,7 +16,7 @@ The following is a draft proposal put forward to Avantgarde Finance to take on t
 
 In summary, Avantgarde believes it can do this by
 
-- Increased community building and management. The goal is to make sure that Melon Protocol is properly & accurately represented across the DeFi space and globally recognised as ***the*** on-chain asset management infrastructure of the future.
+- Increased community building and management. The goal is to make sure that Melon Protocol is properly & accurately represented across the DeFi space and globally recognised as **_the_** on-chain asset management infrastructure of the future.
 
 - Improving of the materials available and the way they are distributed to an array of: educational bodies, community, developers and local representatives to facilitate engagement, interaction and involvement with the Melon Protocol in a more scalable fashion.
 
@@ -24,7 +26,7 @@ In summary, Avantgarde believes it can do this by
 
 ## Meet **Avantgarde Finance**
 
-### *Company synopsis*
+### _Company synopsis_
 
 **Avantgarde Finance** is a company built with the mission of facilitating on-chain asset management through easy user experience and further protocol developments/improvements. Our vision is to create a better everyday experience for aspiring asset managers & their investors by giving them easy access to a new financial infrastructure. The company aims at offering cutting-edge blockchain-based financial tools in a more accessible and attractive fashion.
 
@@ -32,7 +34,7 @@ In summary, Avantgarde believes it can do this by
 
 In addition to acting as a gateway to a new financial infrastructure, the Avantgarde terminal plans to layer in various subscription-based off-chain services over time. These will undoubtedly provide additional benefits to managers (eg. Token network analytics, token research, market data, data feeds, API’s, KYC/AML & fiat bridges).
 
-### *Avantgarde Finance & Melon*
+### _Avantgarde Finance & Melon_
 
 Melon at its core, performs the functions across the entire value-chain of a fund; middle/back office, financial intermediaries (eg. custodian, fund administrator & transfer agent), accountants and so on. Other features in the Melon system (trading, price feed, margin trading, derivatives) are enabled by protocol-level integrations with other decentralized finance protocols. These protocol-level integrations make Melon unique. Melon is a protocol that natively and multilaterally connects/links/integrates all the DeFi protocols at a smart contract level. In doing so, the Melon protocol paves the way for a new form of asset management.
 
@@ -44,7 +46,7 @@ The starting Avantgarde team is composed of a subset of the former Melonport tea
 
 Start team:
 
-![](Untitled-Project_(1)-7afd0a29-04c9-4cc3-9409-97e850f572d5.jpg)
+![](<Untitled-Project_(1)-7afd0a29-04c9-4cc3-9409-97e850f572d5.jpg>)
 
 If proposal is accepted by the Melon Council, Avantgarde will be looking to be fill the following additional positions:
 
@@ -53,7 +55,7 @@ If proposal is accepted by the Melon Council, Avantgarde will be looking to be f
 - Junior Front-End/Full stack developer
 - 2 Protocol/smart contract developers
 
-*Note: The above is subject and conditional on budget allowance making this possible.*
+_Note: The above is subject and conditional on budget allowance making this possible._
 
 # 1. **Community and ecosystem development**
 
@@ -84,44 +86,42 @@ Dialling up the Melon volume on a global scale - making sure we are present in a
 
 ## **Continued lobbying on regulatory front**
 
-- Continued engagement through MAMA and other bodies on regulatory efforts to help make On-Chain funds a reality within a  legally compliant environment
+- Continued engagement through MAMA and other bodies on regulatory efforts to help make On-Chain funds a reality within a legally compliant environment
 - Pushing forward efforts in a sandbox environment with goal to achieve at least one legally compatible environment for a Melon fund to operate
 - Continued writing and lobbying on why existing regulatory environment is a not only inappropriate but arguably dangerous for the future of on-chain asset management.
 
 # 2. Technical proposal
 
-**Our team offers to take on the role of "lead developer" for the Melon protocol for a 3 years duration. This means that our teams will identify what needs to be done on Melon, research it and submit that work to the Melon Technical Council (MTC). The MTC would then decide if the Avantgarde dev team is the right team to implement or if there is another better suited team for the task at hand. The "lead developer" role does not mean that no other team can work on Melon; on the contrary, the more the better.** 
+**Our team offers to take on the role of "lead developer" for the Melon protocol for a 3 years duration. This means that our teams will identify what needs to be done on Melon, research it and submit that work to the Melon Technical Council (MTC). The MTC would then decide if the Avantgarde dev team is the right team to implement or if there is another better suited team for the task at hand. The "lead developer" role does not mean that no other team can work on Melon; on the contrary, the more the better.**
 
-**The main function of the lead developer role is to help the MTC identify, assess and prioritize features, integrations, improvements, and to make sure that there will be constant development on Melon over the next 3 years.** 
+**The main function of the lead developer role is to help the MTC identify, assess and prioritize features, integrations, improvements, and to make sure that there will be constant development on Melon over the next 3 years.**
 
 **We present below an outline of the different areas of work we have identified so far for the next 3 years. We will spend a lot of time researching and assessing the below items, and implementing when/where it makes sense, always subject to the MTC approval.**
 
- 
+_Color code: **black = execution subject to MTC approval**, **blue = assessment and possible execution**, **purple = research**._
 
-*Color code: **black = execution subject to MTC approval**, **blue = assessment and possible execution**, **purple = research**.*
+_Items annotated with 2 asterix (\*\*) are subject to Avantgarde finance being sufficiently funded._
 
-*Items annotated with 2 asterix (**) are subject to Avantgarde finance being sufficiently funded.*
-
-All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL license. 
+All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL license.
 
 ## **GENERAL PROTOCOL IMPROVEMENTS**
 
 - **Maintenance of the deployed protocol**
-    - **Protocol bug fixes**
-    - **Bug/issue investigation**
-    - **Test suite improvements**
-    - **Keeping contracts up to date with new solidity versions**
+  - **Protocol bug fixes**
+  - **Bug/issue investigation**
+  - **Test suite improvements**
+  - **Keeping contracts up to date with new solidity versions**
 - **Reassessing some current parts of the protocol, and improve where we can:**
-    - **Management/performance fee model (see MIP #5 and #6).**
-    - **Make orders handling: currently limited to one open order per asset + assets not coming back to the Vault have to be actively released by the manager**
-    - **Investment process currently takes 2 steps: there might be ways to simplify it**
+  - **Management/performance fee model (see MIP #5 and #6).**
+  - **Make orders handling: currently limited to one open order per asset + assets not coming back to the Vault have to be actively released by the manager**
+  - **Investment process currently takes 2 steps: there might be ways to simplify it**
 - **Assessment and implementation of new features:**
-    - **Upgradable funds across versions (currently funds cannot be migrated across versions).**
-    - **Autonomous funds with Chronos (see MIP #4)**
-    - **Mutable/Immutable risk engineering policies (see MIP #2)**
-    - **Possibility to add/update/remove exchanges post fund deployment**
-    - **Proxy voting features: should be possible to participate in various governance with the tokens that are held in Melon funds**
-    - **Staking features: should be possible to stake assets that are in a fund to yield additional return**
+  - **Upgradable funds across versions (currently funds cannot be migrated across versions).**
+  - **Autonomous funds with Chronos (see MIP #4)**
+  - **Mutable/Immutable risk engineering policies (see MIP #2)**
+  - **Possibility to add/update/remove exchanges post fund deployment**
+  - **Proxy voting features: should be possible to participate in various governance with the tokens that are held in Melon funds**
+  - **Staking features: should be possible to stake assets that are in a fund to yield additional return**
 - **Development of new risk engineering policies in order to manage the risk added by the integration of new Defi products.**
 - **Research for more sophisticated risk engineering policies (ex: utilizing historical data), possibly leveraging zero knowledge proofs**
 - **Pricefeed enhancements/alternative**: **The pricefeed is the security critical part of the Melon protocol. Our Kyber pricefeed solution is currently satisfying, but we'll research possible ways to make it more robust and failure-resistant, as well as adding new price sources (Uniswap). We will also research possible alternative pricefeed solutions: UMA protocol, Open Oracle System etc.**
@@ -140,7 +140,7 @@ All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL 
 
 ### **2. Exploring a wider asset universe**
 
-**Our team will assess independently each of the following asset type, and pending MTC approval for each, will proceed with integrating them to the Melon asset universe if required conditions are met. Each of the asset type will be assessed based on the overall financial and technical risk it adds to the protocol, integration feasibility while maintaining Melon's core promises, and the existence of a reliable (ideally decentralized) on-chain price source for the asset.** 
+**Our team will assess independently each of the following asset type, and pending MTC approval for each, will proceed with integrating them to the Melon asset universe if required conditions are met. Each of the asset type will be assessed based on the overall financial and technical risk it adds to the protocol, integration feasibility while maintaining Melon's core promises, and the existence of a reliable (ideally decentralized) on-chain price source for the asset.**
 
 - **Credit default swap: [CDx](https://cdxproject.com/assets/resources/cdx-whitepaper.pdf)**
 - **[Augur](https://www.augur.net/)/[Gnosis](https://gnosis.io/): Shares in a prediction market**
@@ -160,7 +160,7 @@ All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL 
 ## **INTEROPERABILITY**
 
 - **Research on how to allow the protocol to get access to assets on other chains: assessment on how to leverage the Polkadot framework to that end (through building a parachain? or joining a smart contract parachain?)**
-- **If the conclusion of the research are successful, and once the Polkadot framework is production ready, our team will consider leading the implementation.****
+- **If the conclusion of the research are successful, and once the Polkadot framework is production ready, our team will consider leading the implementation.\*\***
 - **Research on other interoperability frameworks as they come up (ex: Cosmos)**
 
 ## **ADOPTION CHALLENGES**
@@ -177,10 +177,10 @@ All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL 
 
 ## **SECURITY**
 
-- **Avantgarde Finance will hire 2 independent auditors to conduct further audits on the codebase. We aim at having one of those auditors as a long-term ongoing security audit (pull requests, regular code reviews, etc).****
-- **If funding permits, we will look to hire an in-house security professional. ****
-- **Reference specification of the protocol (may or may not be formal)  to (i) ease future implementations on other platforms and (ii) discover possible issues with our model**
-- **Research: we will explore if and how formal verification methods can be applied.****
+- **Avantgarde Finance will hire 2 independent auditors to conduct further audits on the codebase. We aim at having one of those auditors as a long-term ongoing security audit (pull requests, regular code reviews, etc).\*\***
+- **If funding permits, we will look to hire an in-house security professional. \*\***
+- **Reference specification of the protocol (may or may not be formal) to (i) ease future implementations on other platforms and (ii) discover possible issues with our model**
+- **Research: we will explore if and how formal verification methods can be applied.\*\***
 
 ## USER INTERFACES
 
@@ -195,16 +195,16 @@ All the protocol work done by Avantgarde Finance Ltd. will remain under the GPL 
 
 Avantgarde Finance Ltd. plans to organise funding independently of the MLN token it will obtain from the Melon Council. This arrangement is a signal of the confidence they have that they can continue to bring value to the protocol which can be transmitted to the token.
 
-As a reward for the upfront risk borne by Avantgarde Finance Ltd., we propose a compensation over the course of 3 years, worth c. $2M at today's MLN prices (equivalent to 180,000 MLN per year paid at various milestones). This is substantially below what we believe to be the real costs incurred for delivering the new proposed 3 year roadmap. The company yearly costs are estimated at $1.4M, which corresponds to an overall 3 years budget of a minimum of $4.2M. 
+As a reward for the upfront risk borne by Avantgarde Finance Ltd., we propose a compensation over the course of 3 years, worth c. $2M at today's MLN prices (equivalent to 180,000 MLN per year paid at various milestones). This is substantially below what we believe to be the real costs incurred for delivering the new proposed 3 year roadmap. The company yearly costs are estimated at $1.4M, which corresponds to an overall 3 years budget of a minimum of \$4.2M.
 
 The MLN compensation is not to be seen as a direct financing mean, but rather as a reward providing the team with significant upside on the work our company will be doing for the Melon ecosystem. The vesting structure proposed below shows our long-term alignment and our beliefs in the future of MLN.
 
-**Importantly, the proposal we are making to the Melon Council offers to lock up 75% of the tokens for a range of 2 to 5 years.** 
+**Importantly, the proposal we are making to the Melon Council offers to lock up 75% of the tokens for a range of 2 to 5 years.**
 
 Benefits of such a payment schedule:
 
 - Future development and maintenance are dependent on the value of the token, and the value of the token is dependent on protocol usage.
-- In the early years of the Melon network, we expect user adoption to be slow as there is still work to be done on reducing frictions in the blockchain and  protocol DAPP space. **This could put short term pressure on the price of MLN as new supply comes into circulation through inflation without a substantial burn-rate (protocol usage) to balance out new supply.**
+- In the early years of the Melon network, we expect user adoption to be slow as there is still work to be done on reducing frictions in the blockchain and protocol DAPP space. **This could put short term pressure on the price of MLN as new supply comes into circulation through inflation without a substantial burn-rate (protocol usage) to balance out new supply.**
 - In order to incentivise the medium term work that needs to be done for usage to increase, this work needs to be incentivised whilst ideally dampening the immediate circulating supply effect it would require.
 - The Avantgarde proposal provides a cushioned solution by re-shaping the supply curve (see blue curve on chart) such that it is substantially more convex in nature for the first 3 years. Short-medium term circulating token supply is removed through a vesting schedule which temporarily removes MLN supply pressure from the network.
 - This allows time for UX and functionality improvements to take place which should spur on increased usage.
