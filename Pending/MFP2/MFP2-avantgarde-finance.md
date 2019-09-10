@@ -44,7 +44,7 @@ The starting Avantgarde team is composed of a subset of the former Melonport tea
 
 Start team:
 
-![](<Untitled-Project_(1)-7afd0a29-04c9-4cc3-9409-97e850f572d5.jpg>)
+![](startingteam.jpg)
 
 Should the proposal be accepted by the Melon Council, Avantgarde Finance will be hiring!
 
