@@ -323,37 +323,31 @@ YEAR 3
 
 ## Request for Funding
 
-To achieve our goals on time and within budget, Gorilla Funds is asking the
+To achieve our goals on time and within budget, Gorilla Funds 
 
-Melon Council for funding in the total amount of 300.000 e over two years.
+is asking the Melon Council for funding in the total amount of 
 
-These funds are to be released in yearly tranches of 200.000, 100.000
+75000 MLN as of the current daily price over two years. These funds 
 
-EUR worth of FIAT, MLN or a combination of the two. A rough breakdown
+are to be released in yearly tranches of 50000 MLN and 25000 MLN. 
 
-of the 2 year budget are shown below:  
+The grants are used to cover the following costs:
 
-Yearly Budget Assuming Full Time Engagement (EUR):
+#### Yearly Budget Considerations:
 
-
-| Item | Cost in EUR |
-|----------| :-------------:|
-|  Jakob Sievers (CEO / Founder)  |  50.000 |
-| Dave Clancy (CMO)  |  35.000 |
-|  Senior Full Stack Developer | 60.000 |
-|  Front End Developer | 35.000 |
-| Marketing / PR  | 10.000 |
-|  Travel / Show / Conference / Transportation | 15.000 |
-|  Legal / Accounting | 35.000 |
-| Office | 15.000 |
-|  Total Cost |  255.000 |
+| Position |
+|----------| 
+|  Jakob Sievers (CEO / Founder)  | 
+| Dave Clancy (CMO)  |  
+|  Senior Full Stack Developer (FT) | 
+|  Front End Developer (PT) | 
+| Marketing / PR  | 
+|  Travel / Show / Conference / Transportation |
+|  Legal / Accounting | 
+| Office | 
 
 
-This grant proposal assumes that the funding from the Melon protocol it-
-
-self will account for roughly 58% of the seed capital necessary to bring
-
-our products successfully to market. Gorilla Funds is currently in dis-
+Gorilla Funds is currently in dis-
 
 cussion with other sources of ﬁnance to ﬁll any funding gaps.  
 
