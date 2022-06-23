@@ -9,7 +9,7 @@ See Tokenomics I : https://medium.com/melonport-blog/melonomics-part-1-aligning-
 
 ## Applications
 
-Teams and projects applying for a funding through the MLN inflation pool must submit their application by making a pull request to this repository. Make a PR with a file named your_project.md and detail the following: 
+Teams and projects applying for a funding through the MLN inflation pool must submit their application by making a pull request to this repository. Create an issue with a file named your_project.md and detail the following: 
 
 - Description of the project 
 - Synergies/benefits to the Enzyme ecosystem
